@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Selenium, SDET, JAVA, Javascript, Cypress, POSTMAN, Rest Assured**
 
-- 📫 How to reach me **contact@thetestingacademy.com**
+- 📫 How to reach me **shubhamkhera650@gmail.com**
 
 - 📄 Know about my experiences [http://linkedin.com/in/shubhamkhera](http://linkedin.com/in/shubhamkhera)
 
