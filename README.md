@@ -7,21 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/itstechmode" target="blank"><img src="https://img.shields.io/twitter/follow/itstechmode?logo=twitter&style=for-the-badge" alt="itstechmode" /></a> </p>
 
-- 🔭 I’m currently working on Playwright, Selenium,  [Karate API Automation Youtube Course](https://github.com/apitestingco/KarateAPIAutomation)
+- 🔭 I’m currently working on Playwright, Selenium, API Testing and Mnaual Testing.
 
-- 🌱 I’m currently learning Advance Design Patterns, Playwright, **Karate API Automation, Cypress**
+- 🌱 I’m currently learning Advance Design Patterns, Playwright, **POSTMAN API Automation, Cypress**
 
 - 👯 I’m looking to collaborate on **API Testing, Selenium, Automation Frameworks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubham-khera](https://github.com/shubham-khera)
 
-- 📝 I regularly write articles on [https://scrolltest.com/](https://scrolltest.com/)
-
-- 💬 Ask me about **Selenium, SDET, JAVA, Javascript, Cypress, POSTMAN, Rest Assured, Karate, Gatling**
+- 💬 Ask me about **Selenium, SDET, JAVA, Javascript, Cypress, POSTMAN, Rest Assured**
 
 - 📫 How to reach me **contact@thetestingacademy.com**
 
-- 📄 Know about my experiences [http://linkedin.com/in/shubham-khera](http://linkedin.com/in/shubham-khera)
+- 📄 Know about my experiences [http://linkedin.com/in/shubhamkhera](http://linkedin.com/in/shubhamkhera)
 
 - ⚡ Fun fact **I have taught 10k+ people**
 
